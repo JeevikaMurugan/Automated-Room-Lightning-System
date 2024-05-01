@@ -9,4 +9,7 @@ allowing for personalized control and energy savings. Additionally, the system p
 security and comfort for occupants.Through simulations and real-world experiments, the effectiveness of the ARLS in optimizing energy usage while maintaining optimal lighting
 conditions is demonstrated. Results indicate significant reductions in electricity consumption compared to static lighting systems, with minimal impact on user comfort and
 productivity. The scalability and adaptability of the proposed solution make it suitable for various indoor environments, including residential, commercial, and industrial 
-settings.<img width="637" alt="Screenshot 2024-05-01 203407" src="https://github.com/Madhuvarsh/Automated-Room-Lightning-System/assets/123972629/488d2226-e04b-4cff-a099-5866b2e3d296">
+settings.
+
+
+<img width="637" alt="Screenshot 2024-05-01 203407" src="https://github.com/Madhuvarsh/Automated-Room-Lightning-System/assets/123972629/488d2226-e04b-4cff-a099-5866b2e3d296">
